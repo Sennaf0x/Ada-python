@@ -33,3 +33,16 @@ linguagem = input('Qual linguagem de programação você está estudando? ')
 
 print('A línguagem que você está estudando é: ', linguagem)
 
+#Operadores matemáticos
+
+"""
+Soma = +
+Subtração = -
+Multiplicação = *
+Potência = **
+Divisão = /
+Divisão inteira = //
+Resto da divisão = %
+    
+"""
+
